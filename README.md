@@ -1,5 +1,5 @@
 # YOLOv5 with ResNet18 
-Yolov5 Integration with ResNet-18 architecture, built on MaxPool layer and Basic Blocks
+Yolov5 Integration with ResNet-18 architecture, built on MaxPool layer and Basic Blocks<br>
 Architecture used for modern banknote feature detection to compare with MobileNetv2 integrated YOLOv5
 
 ```
